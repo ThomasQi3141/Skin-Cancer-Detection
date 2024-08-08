@@ -12,7 +12,7 @@ CORS(app)  # Enable CORS
 # Load the model
 model = load_model('saved_models/model_acc_0.983.h5')
 
-@app.route('/', methods=['POST'])
+@app.route('/classify_image', methods=['POST'])
 def classify_image():
     data = request.json
     image_data = data['imageData']
