@@ -1,0 +1,5 @@
+Flask==3.0.3
+Flask_Cors==4.0.1
+keras==3.3.3
+numpy==2.0.1
+Pillow==10.4.0
