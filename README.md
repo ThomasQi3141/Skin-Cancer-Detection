@@ -11,8 +11,10 @@ With over 330,000+ cases of diagnosed skin cancer every year, skin cancer is bec
 
 ## iOS App Screenshots:
 
-<img width="432" alt="Screenshot 2024-08-16 at 3 20 40 PM" src="https://github.com/user-attachments/assets/2060b5cb-ea20-4b47-8e35-dbfd0275e3ca">
-<img width="432" alt="Screenshot 2024-08-16 at 3 20 59 PM" src="https://github.com/user-attachments/assets/1c6e1484-008d-499e-bb05-794a9bf2e6e1">
+<div style="display: flex; flex-direction: row;">
+    <img src="https://github.com/user-attachments/assets/2060b5cb-ea20-4b47-8e35-dbfd0275e3ca" width="432" alt="Screenshot 1">
+    <img src="https://github.com/user-attachments/assets/1c6e1484-008d-499e-bb05-794a9bf2e6e1" width="432" alt="Screenshot 2">
+</div>
 
 
 ### Tools/Technologies Used:
