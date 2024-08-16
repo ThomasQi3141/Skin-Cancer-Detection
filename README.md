@@ -9,12 +9,9 @@
 With over 330,000+ cases of diagnosed skin cancer every year, skin cancer is becoming one of the most common cancer types. Every year, millions of dollas worth of equipment is spent trying to detect, classify, and predict the behvaiour of skin lesions. This project aims to leverage computer vision and deep learning to provide a custom solution to streamline the process of skin cancer diagnosis. The final model has a training and testing accuracy of 99.4% and 98.3% (F1 Score), and is lightweight enough to predict in real-time. 
 
 
-## iOS App Screenshots:
+## iOS App Screenshot:
 
-<div style="display: flex; flex-direction: row;">
-    <img src="https://github.com/user-attachments/assets/2060b5cb-ea20-4b47-8e35-dbfd0275e3ca" width="432" alt="Screenshot 1">
-    <img src="https://github.com/user-attachments/assets/1c6e1484-008d-499e-bb05-794a9bf2e6e1" width="432" alt="Screenshot 2">
-</div>
+<img src="https://github.com/user-attachments/assets/1c6e1484-008d-499e-bb05-794a9bf2e6e1" width="432" alt="Screenshot">
 
 
 ### Tools/Technologies Used:
