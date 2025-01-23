@@ -1,6 +1,5 @@
 # Skin Cancer Detection Model
 
-### Test out the model using the web-app <a href="https://prod.d2sxo0mkrus18x.amplifyapp.com/" target=”_blank”>here</a>!
 
 ### The dataset used to train the model can be found <a href="https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000" target=”_blank”>here</a>
 
