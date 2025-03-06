@@ -3,6 +3,8 @@
 
 ### The dataset used to train the model can be found <a href="https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000" target=”_blank”>here</a>
 
+NOTE: AWS free tier ran out, no more live deployments :(
+
 ## Abstract
 
 With over 330,000+ cases of diagnosed skin cancer every year, skin cancer is becoming one of the most common cancer types. Every year, millions of dollas worth of equipment is spent trying to detect, classify, and predict the behvaiour of skin lesions. This project aims to leverage computer vision and deep learning to provide a custom solution to streamline the process of skin cancer diagnosis. The final model has a training and testing accuracy of 99.4% and 98.3% (F1 Score), and is lightweight enough to predict in real-time. 
